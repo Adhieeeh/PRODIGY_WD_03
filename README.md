@@ -12,7 +12,7 @@ users can play against each other or against an AI opponent, aiming to get three
   
     ✿JAVASCRIPT
 
-  * PREVIEW
+* PREVIEWS
 
     Basic preview
     ![](tt1.png)
@@ -20,4 +20,7 @@ users can play against each other or against an AI opponent, aiming to get three
     Winning preview
     ![](tt3.png)
 
-    
+    Other preview
+    ![](tt2.png)
+
+* Author: Adhithya S U
