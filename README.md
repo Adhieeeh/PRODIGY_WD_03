@@ -22,3 +22,5 @@ users can play against each other or against an AI opponent, aiming to get three
 
     Other preview
     ![](tt2.png)
+
+* Author: Adhithya S U
